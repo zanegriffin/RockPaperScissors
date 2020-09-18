@@ -1,0 +1,38 @@
+h1, h2, h3{
+    text-align: center;
+    font-family: 'Roboto';
+    color: white;
+    
+  }
+  
+  .choices{
+    text-align: center;
+    font-family: 'Roboto';
+  }
+  
+  li{
+    text-align: center;
+    font-family: 'Roboto';
+    list-style-type: none;
+    color: white;
+  }
+  
+  #reset{
+    text-align: center;
+    font-family: 'Roboto';
+  }
+  
+  button{
+    font-family: 'Roboto';
+    color: blue;
+    background-color: white;
+    font-size: 20px;
+  }
+  body{
+    background-color: black;
+    width: 100%;
+    margin: auto 0;
+  }
+  #center{
+   text-align: center;
+  }
